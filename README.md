@@ -135,16 +135,13 @@ impl Developer for Rahul {
 
 <div align="center">
 
-<a href="https://twitter.com/andropixels">
+<a href="https://x.com/0xSangeet">
 <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/andropixels">
+<a href="https://www.linkedin.com/in/rahul-navgire-54404217a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://discord.gg/andropixels">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:rahulbuildsdefi@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
